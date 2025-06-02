@@ -75,7 +75,7 @@ export default function Navbar() {
       </ul>
       <div className={click ? "social-links active" : "social-links"}>
         <a
-          href="https://www.linkedin.com/in/deepajha14/"
+          href="https://www.linkedin.com/in/HemilShyani14/"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -86,7 +86,7 @@ export default function Navbar() {
           />
         </a>
         <a
-          href="https://github.com/Deepajha14"
+          href="https://github.com/HemilShyani14"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -97,7 +97,7 @@ export default function Navbar() {
           />
         </a>
         <a
-          href="https://www.instagram.com/artsydeepa/"
+          href="https://www.instagram.com/artsyHemil/"
           target="_blank"
           rel="noopener noreferrer"
         >

@@ -7,7 +7,7 @@ export default function HomeBanner({id}) {
     <div className="home" id={id}> 
         <div className='content'>
             <div className="wrapper">
-              <div className="name">Deepa Jha</div>
+              <div className="name">Hemil Shyani</div>
               <div className="staticTitle">
                 Designer
                 <div className='hrLine'></div>
@@ -15,7 +15,7 @@ export default function HomeBanner({id}) {
               <ul className="dynamicTitle">
                 <li>+<span>Developer</span></li>
               </ul>
-              <a className='btn' href="https://www.linkedin.com/in/deepajha14/" target="_blank" rel="noopener noreferrer">Hire Me</a>
+              <a className='btn' href="https://www.linkedin.com/in/HemilShyani14/" target="_blank" rel="noopener noreferrer">Hire Me</a>
             </div>
         </div>
         <div className="mask">

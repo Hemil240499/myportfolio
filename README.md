@@ -1,10 +1,10 @@
-# Deepa's Portfolio Website
+# Hemil's Portfolio Website
 
 Welcome to my personal portfolio website! This is a showcase of my skills, and projects in the field of Software Development. <br/>
-Link- https://deepajha.netlify.app
+Link- https://HemilShyani.netlify.app
 <br/> <br/>
 ## Website Preview
-![image](https://github.com/Deepajha14/Deepa-Jha/assets/103725672/94807ec4-517c-4954-a8d4-dd072c35bbdc)
+![image](https://github.com/HemilShyani14/Hemil-Shyani/assets/103725672/94807ec4-517c-4954-a8d4-dd072c35bbdc)
 
 
 ## Table of Contents

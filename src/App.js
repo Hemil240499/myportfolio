@@ -44,8 +44,8 @@ function App() {
       <ProjectCard
         projectTitle="Animated Card: featuring the latest glassmorphism trend"
         projectDesc="React JS provided me the flexibility needed to create an interactive card with a glass-like effect, which adds a sense of depth and dimension to the user interface"
-        projectLink="https://github.com/Deepajha14/Touch-me-not-Card"
-        deployedProjectLink="https://deepajha14.github.io/Touch-me-not-Card/"
+        projectLink="https://github.com/HemilShyani14/Touch-me-not-Card"
+        deployedProjectLink="https://HemilShyani14.github.io/Touch-me-not-Card/"
         projectImg={require('./images/projectGlassmorphism.png')}
       />
 
@@ -53,8 +53,8 @@ function App() {
         className = "odd"
         projectTitle="Rog-free: accessible anytime, anywhere"
         projectDesc="An approach to target and heal specific health conditions by transforming the living room into a yoga studio"
-        projectLink="https://github.com/Deepajha14/Rog-Free"
-        deployedProjectLink="https://deepajha14.github.io/Rog-Free/"
+        projectLink="https://github.com/HemilShyani14/Rog-Free"
+        deployedProjectLink="https://HemilShyani14.github.io/Rog-Free/"
         projectImg={require('./images/projectRogfree.png')}
       />
       <AboutMe id = 'about' />
