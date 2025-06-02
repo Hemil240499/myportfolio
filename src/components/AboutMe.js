@@ -16,7 +16,7 @@ export default function AboutMe({ id }) {
           <div className="heading"> About Me</div>
           <img className="img" src={myProfile} alt="Profile"></img>
         </div>
-        <div className="name">Hemil</div>
+        {/* <div className="name">Hemil</div> */}
       </div>
   );
 }
